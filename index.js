@@ -4,7 +4,7 @@ function getUKTime() {
   return currentHour + 5
 }
 
-function discountTicket() {
+function discountTicket(number) {
   
   return 
 }
